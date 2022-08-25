@@ -1,0 +1,9 @@
+[submodule "cscore"]
+	path = cscore
+	url = https://github.com/NightVsKnight/cscore.git
+[submodule "NvMaxineSdkDotNet"]
+	path = NvMaxineSdkDotNet
+	url = https://github.com/NightVsKnight/NvMaxineSdkDotNet.git
+[submodule "NvkCommon"]
+	path = NvkCommon
+	url = https://github.com/NightVsKnight/NvkCommon.git
